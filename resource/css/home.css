@@ -1,0 +1,20 @@
+.box_relative {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.line_relative{
+	margin-left: 40px;
+  	margin-right: 40px;
+}
+
+.name_font{
+	font-size: 32pt;
+}
+.list_font{
+	font-size: 18pt;
+}
+.font_type{
+	font-family: Century Schoolbook L, serif;
+}
