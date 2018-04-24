@@ -4,9 +4,9 @@
   margin-left: 40px;
   margin-right: 40px;
 }
-.line_relative{
-	margin-left: 40px;
-  	margin-right: 40px;
+.cont_relative{
+	margin-left: 100px;
+	font-size: 14pt;
 }
 
 .name_font{
@@ -17,4 +17,7 @@
 }
 .font_type{
 	font-family: Century Schoolbook L, serif;
+}
+.image{
+	
 }
