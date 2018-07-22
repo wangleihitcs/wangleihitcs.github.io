@@ -1,14 +1,26 @@
 .box_relative {
-  position: relative;
-  margin-top: 20px;
-  margin-left: 40px;
-  margin-right: 40px;
+	position: relative;
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
 }
 .cont_relative{
 	margin-left: 100px;
 	font-size: 14pt;
 }
-
+.left {
+	margin-left: 40px;
+	width: 760px;
+	height: 400px;
+	float: left;
+	/*background: yellow; */
+}
+.right {
+	margin-left: 940px;
+	margin-right: 40px;
+	height: 400px;
+	/*background: red; */
+}
 .name_font{
 	font-size: 32pt;
 }
@@ -19,5 +31,6 @@
 	font-family: Century Schoolbook L, serif;
 }
 .image{
-	
+	width: 230px;
+	height: 300px;
 }
